@@ -1,0 +1,35 @@
+body{
+    background-color: indianred;
+}
+h1 {
+    background-color: hotpink;
+    text-align: center;
+  }
+  h5 {
+    background-color: lightcoral;
+    text-align: center;
+  }
+
+  
+  div {
+   background-color: pink;
+  }
+  
+  p {
+    color:violet;
+  }
+  p.helvetica {
+    font-family: "Helvetica", Times, serif;
+    color:indianred;
+  }
+  p.oblique {
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
